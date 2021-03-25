@@ -31,7 +31,7 @@ sadas
 |Google|[Google Imágenes](https://www.google.com/search?q=google&safe=strict&sxsrf=ALeKk02euq12kn1xvh8vaTbBw79bCfxgng:1616340910964&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOwtWO28HvAhU-J7kGHXL9CZsQ_AUoAnoECAgQBA&biw=1782&bih=880)|
 |-|-|
 |-|-|
-
+ s
 
 Las fuentes de los scrapers son:
 <img src="(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="200">
