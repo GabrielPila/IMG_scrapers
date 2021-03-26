@@ -11,7 +11,7 @@ En este repositorio se guardan los códigos de scrapeo de imágenes desde difere
 | selenium | latest |
 | pandas | latest |
 | chromedriver | v88 |
-<br>
+<br><br>
 
 
 ### 1 Paso
