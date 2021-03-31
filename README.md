@@ -4,7 +4,7 @@ En este repositorio se guardan los códigos de scrapeo de imágenes desde difere
 ***.x
 ## Instalación
 ### 2 Dependencias
-> Selenium, Pandas
+> Selenium, Pandasx
  
 | libreria | version |
 | --- | --- |
