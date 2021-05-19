@@ -9,7 +9,7 @@ En este repositorio se guardan los códigos de scrapeo de imágenes desde difere
 | --- | --- |
 | selenium | latest |
 | pandas | latest |
-| chromedriver | v88 |
+| chromedriver | v90 |
 
 ### Contributors
 - Gabriel Pila [(gabriel.pilah@pucp.edu.pe)](gabriel.pilah@pucp.edu.pe)
